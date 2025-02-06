@@ -24,7 +24,7 @@ Hello, my name is Harvey Vinuya and I am currently a student at [Technological U
 
 **Languages and Tools:** 
 
-![C++](https://img.shields.io/badge/C++-181717?style=flat&logo=github&logoColor=white)&nbsp;&nbsp;
+![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
