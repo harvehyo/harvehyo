@@ -33,4 +33,4 @@ Hello, my name is Harvey Vinuya and I am currently a student at [Technological U
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 ![Harvey's Github Stats](https://github-readme-stats.vercel.app/api?username=harvehyo&theme=default&show_icons=true&hide_border=true&count_private=false)
-![harvehyo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harvehyo&theme=default&show_icons=true&hide_border=true&layout=compact)
+![harvehyo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harvehyo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
