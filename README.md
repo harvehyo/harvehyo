@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Harvey Vinuya and I am currently a student at [Technological University of the Philippines](https://www.tup.edu.ph/) studying Bachelor of Science in Computer Science. I am an aspiring software developer. My technology stack involves C, C++, python, Besides programming, I also love playing video games.
+Hello, my name is Harvey Vinuya and I am currently a student at [Technological University of the Philippines](https://www.tup.edu.ph/) studying Bachelor of Science in Computer Science. I am an aspiring software developer. My technology stack involves C, C++, python, HTML5, CSS3, Tailwind, Besides programming, I also love playing video games.
 
 - 🔭 I’m currently self-studying about machine learning and AIs.
 - 💬 Brainstorm with me over tech, algorithms, career, and video games. 
