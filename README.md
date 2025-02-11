@@ -31,7 +31,7 @@ Hello, my name is Harvey Vinuya and I am currently a student at [Technological U
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&style=social)&nbsp;&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?&logo=tailwind-css&logoColor=38B2AC&style=social)&nbsp;&nbsp;
 
 
 ![harvehyo's Stats](https://github-readme-stats.vercel.app/api?username=harvehyo&theme=default&show_icons=true&hide_border=true&count_private=true)
